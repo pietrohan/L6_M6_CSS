@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+  font-family: Arial;
+  font-size: 320%;
+  padding: 10px;
+  inline: style;
+}
+p {
+  color: #0037ff;
+  font-family: Arial;
+  font-size: 120%;
+  padding: 10px;
+}
